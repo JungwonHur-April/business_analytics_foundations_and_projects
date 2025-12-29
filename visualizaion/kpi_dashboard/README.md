@@ -7,7 +7,8 @@ This dashboard is designed to analyze order value KPIs by examining month-over-m
 How do order value metrics (AOV, ARPPU) evolve month-over-month, and which product categories and customer segments drive higher-value orders?
 
 # Dashboard
-* **Tableau Public:** [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/jungwon.hur/viz/Part10-1_KPI/KPIDashboard)
+* **Tableau Public:** [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/jungwon.hur/viz/Part10-1_KPI/KPIDashboard
+* core structre 추가
 * **Key filters:**
     * Date range (MoM comparison)
     * Product category (All, Furniture, Office Supplies, Technology)
