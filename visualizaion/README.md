@@ -1,6 +1,6 @@
 # Overview
 This project analyzes order value KPIs using an interactive Tableau dashboard to understand month-over-month (MoM) performance changes and identify whether growth is driven by customer volume or spending intensity per customer.
-![KPI Dashboard Overview]
+![KPI Dashboard Overview](kpi_dashboard_overview.png)
 
 # Business Question
 How do order value metrics (AOV, ARPPU) evolve month-over-month, and which product categories and customer segments drive higher-value orders?
