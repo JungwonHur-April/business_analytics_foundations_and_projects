@@ -1,5 +1,5 @@
 # Overview
-This project analyzes order value KPIs using an interactive Tableau dashboard to understand month-over-month (MoM) performance changes and identify whether growth is driven by customer volume or spending intensity per customer.
+This dashboard is designed to analyze order value KPIs by examining month-over-month (MoM) performance changes and identifying whether growth is driven by customer volume or spending intensity per customer.
 
 ![KPI Dashboard Overview](kpi_dashboard_overview.png)
 
