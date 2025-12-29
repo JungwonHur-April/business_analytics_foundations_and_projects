@@ -1,0 +1,7 @@
+age=input('enter your age:')
+print('you are ',age,' years old.')
+print()
+subject=input('enter your favorite subject:')
+print('your favorite subject is ',subject)
+print()
+print('your age: ',age,', your favorite subject: ',subject)

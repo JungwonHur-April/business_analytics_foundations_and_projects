@@ -1,0 +1,15 @@
+# << n → shift left by n bits = value × 2ⁿ
+print(5<<0)
+print(5<<1)
+print(5<<2)
+print(5<<3)
+print(5<<4)
+
+# >> n → shift right by n bits = value ÷ 2ⁿ (integer division)
+print(85>>0)
+print(85>>1)
+print(85>>2)
+print(85>>3)
+print(85>>4)
+print(85>>7)
+print(85>>10)

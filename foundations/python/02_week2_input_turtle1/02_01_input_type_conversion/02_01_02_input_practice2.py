@@ -1,0 +1,5 @@
+name=input('your name: ')
+address=input('address: ')
+print()
+print('Name: ',name)
+print('Address: ',address)
