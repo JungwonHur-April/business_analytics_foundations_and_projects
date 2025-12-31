@@ -2,14 +2,14 @@
 
 
 ## Repository Structure
-- **[Foundations](foundations/)**  
-  Foundational practice in Python and SQL to build core programming and analytical skills
-- **[Projects](projects/)**  
+- **[Projects](projects/README.md)**  
   Applied analytics projects focused on end-to-end problem solving, including modeling and result interpretation
-- **[Visualizations](visualizations/)**  
+- **[Visualizations](visualizations/README.md)**  
   Tableau dashboards and visual analyses used to explore metrics and support data-driven insights
+- **[Foundations](foundations/README.md)**  
+  Foundational practice in Python and SQL to build core programming and analytical skills
 
-  
+
 ## Overview
 #### Content
 This repository documents my foundational preparation toward becoming a business analytics professional, combining programming foundations, data visualization, and applied projects. It includes hands-on work with analytical tools such as Python and SQL, Tableau-based visual exploration and dashboard analysis, and applied modeling projects addressing business analytics use cases.
