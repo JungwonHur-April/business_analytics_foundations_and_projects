@@ -1,29 +1,31 @@
 # Overview
 This dashboard uses a metric hierarchy framework to break down month-over-month (MoM) changes in total sales into breadth (order and customer volume) and depth (value per purchasing customer).
 Rather than treating sales as a single outcome, the dashboard clarifies which underlying metrics actually drove MoM changes, and how those drivers differ across product categories.
+The analysis covers the period from October 1, 2022 to November 30, 2022.
 
 ![Metric Hierarchy Dashboard Overview](metric_hierarchy_dashboard_overview.png)
 
 # Business Question
-* When total sales change month-over-month, are those changes driven more by an increase in orders and customers, or by higher spending per customer and per order?
-* How do these mechanisms vary across product categories?
+- When total sales change month-over-month, are those changes driven more by an increase in orders and customers, or by higher spending per customer and per order?
+- How do these mechanisms vary across product categories?
 
 # Dashboard
-* **Tableau Public:** [View Metric Hierarchy Dashboard](https://public.tableau.com/app/profile/jungwon.hur/viz/Part10-2_MetricHierarhcy/MetricHierarchyDashboard)
-* **Core structure:** Sales decomposed into Breadth (Orders, Customers, Quantity) and Depth (ARPPU, AOV, Repurchase behavior)
-* **Key filters:**
+- **Tableau Public:** [View Metric Hierarchy Dashboard](https://public.tableau.com/app/profile/jungwon.hur/viz/Part10-2_MetricHierarhcy/MetricHierarchyDashboard)
+- **Core structure:** Sales decomposed into Breadth (Orders, Customers, Quantity) and Depth (ARPPU, AOV, Repurchase behavior)
+- **Key filters:**
     * Date range (MoM comparison)
     * Product category (All, Furniture, Office Supplies, Technology)
     * Sub-category
-* *Notes: This dashboard uses a dataset distinct from the KPI dashboard to support metric hierarchy analysis.*
 
 # Key Insights
-* Overall MoM sales growth was driven by an increase in ARPPU while customer and order counts remained relatively stable, suggesting that short-term performance relied more on extracting higher value from existing purchasers than on demand expansion.
-* Furniture’s MoM sales increase came from a rise in orders and customers, while per-customer value metrics remained flat or declined, indicating volume-led growth rather than higher-priced purchases.
-* Office Supplies achieved MoM growth through simultaneous increases in ARPPU, AOV, and customer counts, suggesting structurally healthy demand where higher spending and repeat purchasing reinforced each other.
-* Technology sales were supported by relatively high ARPPU and AOV despite declining orders and customers, implying that revenue was concentrated in fewer, high-value purchases and remained sensitive to purchase timing and cycles.
+**Overview**
+- Total sales increased sharply MoM, driven by a substantial rise in orders and customers, while depth metrics such as ARPPU and AOV showed comparatively smaller or mixed changes, indicating that revenue growth was led by expanded purchasing activity rather than higher spend per customer.
+**By Category**
+- **Furniture:** Sales growth was supported by increases in both order volume and per-customer value, indicating that demand expanded without compromising monetization quality. However, ARPPU and AOV demonstrated relatively smaller rises compared to volume metrics, suggesting that the near-term focus should be maintaining the AOV/ARPPU lift.
+- **Office Supplies:** Sales growth was primarily from breadth expansion, showing consistent increases across both promotional and non-promotional purchases. However, depth weakened as ARPPU and AOV declined, indicating that future gains may require shifting focus from volume expansion toward improving per-order and per-customer value.
+- **Technology:** Sales growth was primarily driven by increased order activity, particularly from non-promotional purchases, while basket-level value wea
+- kened despite gains in unit pricing. This indicates that increased transaction frequency did not fully translate into deeper per-order spending, highlighting a need to reinforce value per purchase.
 
 # Business Implications
-* Volume-led growth (e.g., Furniture) may require margin monitoring due to promotion dependence.
-* Categories showing balanced breadth and depth growth (e.g., Office Supplies) are more likely to support sustainable performance.
-* Depth-driven categories like Technology benefit from timing-aware and targeted strategies rather than broad volume expansion.
+- Categories where volume and value metrics diverge sharply (Office Supplies, Technology) may benefit from category-specific strategies rather than uniform growth tactics.
+- Balanced improvements across both dimensions, as seen in Furniture, indicate healthier demand dynamics and more resilient revenue drivers, supporting continued investment in demand expansion while maintaining value-focused levers such as pricing discipline and basket composition.
