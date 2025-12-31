@@ -23,9 +23,9 @@ The analysis covers the period from October 1, 2022 to November 30, 2022.
 - Total sales increased sharply MoM, driven by a substantial rise in orders and customers, while depth metrics such as ARPPU and AOV showed comparatively smaller or mixed changes, indicating that revenue growth was led by expanded purchasing activity rather than higher spend per customer.
 
 **By Category**
-- **Furniture:** Sales growth was supported by increases in both order volume and per-customer value, indicating that demand expanded without compromising monetization quality. However, ARPPU and AOV demonstrated relatively smaller rises compared to volume metrics, suggesting that the near-term focus should be maintaining the AOV/ARPPU lift.
-- **Office Supplies:** Sales growth was primarily from breadth expansion, showing consistent increases across both promotional and non-promotional purchases. However, depth weakened as ARPPU and AOV declined, indicating that future gains may require shifting focus from volume expansion toward improving per-order and per-customer value.
-- **Technology:** Sales growth was primarily driven by increased order activity, particularly from non-promotional purchases, while basket-level value wea
+- **Furniture:** sales growth was supported by increases in both order volume and per-customer value, indicating that demand expanded without compromising monetization quality. However, ARPPU and AOV demonstrated relatively smaller rises compared to volume metrics, suggesting that the near-term focus should be maintaining the AOV/ARPPU lift.
+- **Office Supplies:** sales growth was primarily from breadth expansion, showing consistent increases across both promotional and non-promotional purchases. However, depth weakened as ARPPU and AOV declined, indicating that future gains may require shifting focus from volume expansion toward improving per-order and per-customer value.
+- **Technology:** sales growth was primarily driven by increased order activity, particularly from non-promotional purchases, while basket-level value wea
 - kened despite gains in unit pricing. This indicates that increased transaction frequency did not fully translate into deeper per-order spending, highlighting a need to reinforce value per purchase.
 
 # Business Implications
