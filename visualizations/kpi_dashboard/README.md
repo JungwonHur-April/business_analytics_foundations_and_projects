@@ -1,3 +1,7 @@
+*← Back to* [*Main*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main)
+<br />
+*← Back to* [*Visualizations*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main/visualizations)
+
 # Overview
 This dashboard is designed to analyze order value KPIs by examining month-over-month (MoM) performance changes and identifying whether growth is driven by customer volume or spending intensity per customer.
 <br />
