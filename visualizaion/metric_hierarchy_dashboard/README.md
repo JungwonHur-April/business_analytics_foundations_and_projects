@@ -7,7 +7,7 @@ The analysis covers the period from October 1, 2022 to November 30, 2022.
 ![Metric Hierarchy Dashboard Overview](metric_hierarchy_dashboard_overview.png)
 
 # Business Question
-- When total sales change month-over-month, are those changes driven more by an increase in orders and customers, or by higher spending per customer and per order?
+- When total sales change MoM, are those changes driven more by an increase in orders and customers, or by higher spending per customer and per order?
 - How do these mechanisms vary across product categories?
 
 # Dashboard
@@ -25,8 +25,7 @@ The analysis covers the period from October 1, 2022 to November 30, 2022.
 **By Category**
 - **Furniture:** sales growth was supported by increases in both order volume and per-customer value, indicating that demand expanded without compromising monetization quality. However, ARPPU and AOV demonstrated relatively smaller rises compared to volume metrics, suggesting that the near-term focus should be maintaining the AOV/ARPPU lift.
 - **Office Supplies:** sales growth was primarily from breadth expansion, showing consistent increases across both promotional and non-promotional purchases. However, depth weakened as ARPPU and AOV declined, indicating that future gains may require shifting focus from volume expansion toward improving per-order and per-customer value.
-- **Technology:** sales growth was primarily driven by increased order activity, particularly from non-promotional purchases, while basket-level value wea
-- kened despite gains in unit pricing. This indicates that increased transaction frequency did not fully translate into deeper per-order spending, highlighting a need to reinforce value per purchase.
+- **Technology:** sales growth was primarily driven by increased order activity, particularly from non-promotional purchases, while basket-level value weakened despite gains in unit pricing. This indicates that increased transaction frequency did not fully translate into deeper per-order spending, highlighting a need to reinforce value per purchase.
 
 # Business Implications
 - Categories where volume and value metrics diverge sharply (Office Supplies, Technology) may benefit from category-specific strategies rather than uniform growth tactics.
