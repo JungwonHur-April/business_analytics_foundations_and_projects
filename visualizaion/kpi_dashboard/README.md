@@ -35,5 +35,5 @@ How do order value metrics (AOV, ARPPU) evolve month-over-month, and which pro
 
 # Business Implications
 - Short-term performance monitoring should prioritize MoM KPIs over YoY trends.
-- Investment strategies should distinguish between volume-driven and value-driven categories.
+- Investment strategies should distinguish between volume-driven and value-driven categories, allocating resources toward demand expansion and acquisition in the former, while prioritizing pricing, product mix, and upsell initiatives in the latter.
 - Targeted, category-specific approaches are likely to be more effective than uniform growth strategies in categories where volume and value metrics exhibit divergent performance trends.
