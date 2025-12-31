@@ -1,3 +1,7 @@
+*← Back to* [*Main*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main)
+<br />
+*← Back to* [*Visualizations*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main/visualizations)
+
 # Overview
 This dashboard is designed to analyze the AARRR funnel (Acquisition, Activation, Retention, Revenue, Referral) to understand how users move through key lifecycle stages and where conversion performance meaningfully changes.
 Rather than focusing on a single KPI, the dashboard provides a stage-by-stage view of user behavior, highlighting which parts of the funnel drive improvements and where friction remains.
